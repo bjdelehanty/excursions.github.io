@@ -24,6 +24,13 @@ h3 {
 }
 
 a {
+    font-family: Verdana;
     color: aquamarine;
     font-size: 16px;
+}
+
+footer > div{
+    font-family: Verdana;
+    margin: 50px;
+    font-size: 20px;
 }
